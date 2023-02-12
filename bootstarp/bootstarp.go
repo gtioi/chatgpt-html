@@ -1,8 +1,8 @@
 package bootstarp
 
 import (
-	"github.com/869413421/chatgpt-web/config"
-	"github.com/869413421/chatgpt-web/pkg/logger"
+	"github.com/gtioi/chatgpt-html/config"
+	"github.com/gtioi/chatgpt-html/pkg/logger"
 	"net/http"
 	"strconv"
 )
