@@ -1,4 +1,4 @@
-module github.com/869413421/chatgpt-web
+module github.com/gtioi/chatgpt-html
 
 go 1.16
 
